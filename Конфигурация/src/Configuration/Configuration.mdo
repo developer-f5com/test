@@ -33,7 +33,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <catalogs>Catalog.Справочник</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
 </mdclass:Configuration>
