@@ -50,5 +50,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.Ф5_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.Ф5_ОбщийМодуль</commonModules>
   <catalogs>Catalog.Склады</catalogs>
 </mdclass:Configuration>
