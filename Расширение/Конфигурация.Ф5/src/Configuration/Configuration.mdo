@@ -50,4 +50,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.Ф5_ОсновнаяРоль</roles>
+  <catalogs>Catalog.Склады</catalogs>
 </mdclass:Configuration>
